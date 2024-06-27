@@ -14,12 +14,12 @@ Se preferir utilizar yarn, execute.
 $ yarn install
 ```
 
-Para consumir consumir o tópico, execute.
+Para consumir o tópico, execute.
 ```bash
 $ node consumer.js
 ```
 
-Para produzir consumir no tópico, execute.
+Para produzir no tópico, execute.
 ```bash
 $ node producer.js
 ```
