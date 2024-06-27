@@ -2,7 +2,7 @@
 
 Exemplo simples de como utilizar a biblioteca `kafkajs` em NodeJS.
 
-Utilize o compose `full-stack.yml` disponível em [kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose?tab=readme-ov-file#full-stack) para consumir e produzir mensagem.
+Utilize o compose `full-stack.yml` disponível em [kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose?tab=readme-ov-file#full-stack) para consumir e produzir mensagem. Caso prefira uma infra simplificada, utilize o compose `zk-single-kafka-single.yml` disponível em [single-zookeeper--single-kafka](https://github.com/conduktor/kafka-stack-docker-compose?tab=readme-ov-file#single-zookeeper--single-kafka).
 
 Instale a depedência com npm.
 ```bash
